@@ -247,6 +247,6 @@ No hay bloqueos críticos. El flujo principal funciona correctamente; lo pendien
 
 | Nombre | Rol |
 |---|---|
-| [Myrahis](https://github.com/MyrahisYSanluis) | Desarrolladora principal |
+| [Myrahis Sanluis Cerezo](https://github.com/MyrahisYSanluis) | Desarrolladora principal |
 
 Universidad de las Américas Puebla (UDLAP)
