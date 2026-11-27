@@ -247,6 +247,6 @@ There are no critical blockers. The main flow works correctly; what remains are 
 
 | Name | Role |
 |---|---|
-| [Myrahis](https://github.com/MyrahisYSanluis) | Lead developer |
+| [Myrahis Sanluis Cerezo](https://github.com/MyrahisYSanluis) | Lead developer |
 
 Universidad de las Américas Puebla (UDLAP)
